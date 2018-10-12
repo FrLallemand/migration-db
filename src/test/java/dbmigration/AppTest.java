@@ -1,4 +1,4 @@
-package db-migration;
+package dbmigration;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

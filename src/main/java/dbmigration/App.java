@@ -1,4 +1,4 @@
-package db-migration;
+package dbmigration;
 
 /**
  * Hello world!
