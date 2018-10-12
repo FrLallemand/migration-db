@@ -25,7 +25,7 @@
 
   <profiles>
     <profile>
-	  <id>TEST</id>
+	  <id>test</id>
 	  <build>
         <plugins>
           <plugin>
@@ -48,7 +48,7 @@
       </build>
 	</profile>
 	    <profile>
-	  <id>DEV</id>
+	  <id>dev</id>
 	  <build>
         <plugins>
           <plugin>
